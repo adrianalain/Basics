@@ -1,0 +1,17 @@
+section h1 {
+  color: red;
+  font-size: 70px;
+}
+p {
+  color: blue;
+}
+.green {
+    color: #65e161;
+}
+.highlight {
+    background-color: yellow;
+}
+
+h1:hoverL {
+  color: purple;
+}
